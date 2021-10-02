@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ducduong303.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/ducduong303.github.io/static/js/main.113ab603.chunk.js",
+    "main.js.map": "/ducduong303.github.io/static/js/main.113ab603.chunk.js.map",
+    "runtime-main.js": "/ducduong303.github.io/static/js/runtime-main.e3fa165e.js",
+    "runtime-main.js.map": "/ducduong303.github.io/static/js/runtime-main.e3fa165e.js.map",
+    "static/js/2.df35b818.chunk.js": "/ducduong303.github.io/static/js/2.df35b818.chunk.js",
+    "static/js/2.df35b818.chunk.js.map": "/ducduong303.github.io/static/js/2.df35b818.chunk.js.map",
+    "static/js/3.7b6b0a58.chunk.js": "/ducduong303.github.io/static/js/3.7b6b0a58.chunk.js",
+    "static/js/3.7b6b0a58.chunk.js.map": "/ducduong303.github.io/static/js/3.7b6b0a58.chunk.js.map",
+    "index.html": "/ducduong303.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ducduong303.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.df35b818.chunk.js.LICENSE.txt": "/ducduong303.github.io/static/js/2.df35b818.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ducduong303.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3fa165e.js",
+    "static/js/2.df35b818.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.113ab603.chunk.js"
+  ]
+}
